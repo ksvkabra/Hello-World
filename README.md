@@ -8,14 +8,15 @@ New to Open Source?
 New to Github?  
 Don't know where to Start?  
 Don't know how to Start? :confused:  
-
+Don't worry we are here to help you out.
 **Here is the One Stop Solution for Every Newcomer!**
 
-## 1. Begin with learning about Git and Github! How it works and learn about the various Commands. :octocat:
 
-You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
+## 1. Begin with learning about Git and Github! How it works! why it is used! it's importance and flexibilities and learn about the various Commands. :octocat:
 
-### 1.1 Here are some Youtube Tutorials/Videos
+You can take any one of the following courses/videos. One is just sufficient. If you want you may take more than one too! 
+
+### 1.1 Here are some Youtube Tutorials/Videos for you
 * [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :stuck_out_tongue_winking_eye:)
 * [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
 
@@ -26,7 +27,7 @@ You can take any one of the following courses/videos. One is just sufficient. If
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)
 
 ### 2.1 Fork this Repository :fork_and_knife:(commonly called as Repo)
-Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
+first open the repository you want to add changes.Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account with your name.
 Don't forget to `Star`it!
 
 ### 2.2 Clone this Repo Locally
@@ -35,7 +36,7 @@ Don't forget to `Star`it!
 * Now open Command Line/Terminal.
 * Switch to the Directory where you want to Clone this Repo.
 * Run this Command
-
+     //git clone repository url with your name you just forked.
   ```
   git clone https://github.com/<your-username>/Hello-World.git
   ```
@@ -65,7 +66,7 @@ git checkout -b shreya#11
   - Your github username or link to your github profile
   - Anything else you want to write  
   *Check [Sample](https://github.com/Novice-Paradigm/Hello-World/blob/master/Contributors/Sample.md)*
-* Save the File.
+* Don't forget to save the File.
 
 ### 2.5 Commit the Changes
 * `git status`
